@@ -86,10 +86,10 @@ If the request body is invalid, the API will return a `400 Bad Request` response
 
 ## Project Structure
 
-`src/index.ts`: Entry point of the application.
-`src/api/process-user.ts`: Defines the /api/process-user route.
-`src/application/process-user.ts`: Contains the logic for processing user and transaction data.
-`src/domain/dtos/process-user.ts`: Defines the schema for validating the request body using Zod.
+- `src/index.ts`: Entry point of the application.
+- `src/api/process-user.ts`: Defines the /api/process-user route.
+- `src/application/process-user.ts`: Contains the logic for processing user and transaction data.
+- `src/domain/dtos/process-user.ts`: Defines the schema for validating the request body using Zod.
 
 ## Dependencies
 
