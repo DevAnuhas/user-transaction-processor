@@ -93,13 +93,13 @@ If the request body is invalid, the API will return a `400 Bad Request` response
 
 ## Dependencies
 
-**Express**: Web framework for building APIs.
-**Zod**: Schema validation library.
-**Date-fns**: Utility library for date manipulation.
-**Ora**: CLI spinner for better logging.
-**TypeScript**: Type-safe JavaScript.
-**Nodemon**: Automatically restarts the server during development.
-**Ts-node**: Runs TypeScript files directly.
+- **Express**: Web framework for building APIs.
+- **Zod**: Schema validation library.
+- **Date-fns**: Utility library for date manipulation.
+- **Ora**: CLI spinner for better logging.
+- **TypeScript**: Type-safe JavaScript.
+- **Nodemon**: Automatically restarts the server during development.
+- **Ts-node**: Runs TypeScript files directly.
 
 ## License
 
